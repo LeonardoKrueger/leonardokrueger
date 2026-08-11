@@ -2,7 +2,7 @@
 
 ## Desenvolvedor de Software | QA
 
-Construindo automação de testes e aplicações web desde 2023.<br>
+**Construindo automação de testes e aplicações web desde 2023.<br>**
 Evoluindo de qualidade de software para desenvolvimento full-stack.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-krueger-8709aa225/)
@@ -14,9 +14,9 @@ Evoluindo de qualidade de software para desenvolvimento full-stack.
 
 ## Visão geral profissional
 
-- Foco atual: Automação de testes web com Selenium, desenvolvimento frontend com React
-- Evoluindo em: Backend com Node.js/Express, gerenciamento de estado (Context API, Redux, Zustand)
-- Princípios de Engenharia: Qualidade desde a primeira linha de código, testes como parte do desenvolvimento
+- **Foco atual:** Automação de testes web com Selenium, desenvolvimento frontend com React
+- **Evoluindo em:** Backend com Node.js/Express, gerenciamento de estado (Context API, Redux, Zustand)
+- **Princípios de Engenharia:** Qualidade desde a primeira linha de código, testes como parte do desenvolvimento
 
 </div>
 
@@ -35,3 +35,5 @@ Evoluindo de qualidade de software para desenvolvimento full-stack.
 | | | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 | | | | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
 | | | | ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white) | |
+
+Contato: **leorkg.102000&#8203;@gmail.com | +55 41 99638-8039**
