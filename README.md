@@ -5,7 +5,7 @@
 Construindo automação de testes e aplicações web desde 2023.<br>
 Evoluindo de qualidade de software para desenvolvimento full-stack.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/leonardo-krueger-8709aa225)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-krueger-8709aa225/)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:leorkg.102000@gmail.com)
 
 ---
